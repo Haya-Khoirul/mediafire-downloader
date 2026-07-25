@@ -1,0 +1,15 @@
+{
+  "name": "mediafire-folder-downloader",
+  "version": "1.0.0",
+  "description": "Aplikasi lokal untuk mengelola dan mengunduh file publik dari folder MediaFire, mirip JDownloader tapi ringan (server Node.js + antarmuka web).",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
